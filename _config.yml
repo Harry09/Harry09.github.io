@@ -1,1 +1,27 @@
-theme: jekyll-theme-cayman
+title: Piotr Krupa
+author:
+  name: Piotr Krupa
+  email: piotrkrupa06@gmail.com
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github: Harry09
+    youtube_channel: UCxIQw0FECuQ_5G28x0hot6A
+    youtube_channel_name: Hary
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- about.md
+- projects/index.md
+
+# Build settings
+theme: minima
