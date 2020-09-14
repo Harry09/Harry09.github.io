@@ -13,15 +13,16 @@ minima:
 
   # generate social links in footer
   social_links:
-    github: Harry09
+    github: Hary309
     youtube_channel: UCxIQw0FECuQ_5G28x0hot6A
     youtube_channel_name: Hary
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- about.md
-- projects/index.md
+  - about.md
+  - projects/index.md
+  - projects/hry-plugins/index.md
 
 # Build settings
 theme: minima

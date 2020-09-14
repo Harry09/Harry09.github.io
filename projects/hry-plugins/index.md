@@ -6,10 +6,18 @@ permalink: /projects/hry-plugins/
 
 Hry plugins are mods for Euro Truck Simulator 2 and American Truck Simulator.
 
-I create mods, because I miss some features that I consider as useful or I want to fix some annoying things.
+I create mods, because I want to add features that miss in original games.
 
-## List
+The spine of every mod is [hry-core](hry-core)
 
-- Smooth Interior Camera
-- On Screen H-Shifter
-- More to come
+## Available plugins
+
+----
+
+### [Smooth Interior Camera](hry-sic)
+
+Camera mod, adds smooth rotation
+
+### [On Screen H-Shifter](hry-hshifter)
+
+Adds virtual h-shifter on screen which can be controlled by keyboard, mouse or joystick
