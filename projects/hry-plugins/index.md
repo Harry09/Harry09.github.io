@@ -6,9 +6,7 @@ permalink: /projects/hry-plugins/
 
 Hry plugins are mods for Euro Truck Simulator 2 and American Truck Simulator.
 
-I create mods, because I want to add features that miss in original games.
-
-The spine of every mod is [hry-core](hry-core)
+### **To be able to run plugins you need to install the [hry-core](hry-core)**
 
 ## Available plugins
 

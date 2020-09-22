@@ -6,3 +6,7 @@ version: 1.0.0
 download-link: https://google.com
 ---
 
+## How to install
+
+1. foo
+2. bar

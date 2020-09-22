@@ -21,8 +21,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
+  - contact.md
   - projects/index.md
-  - projects/hry-plugins/index.md
 
 # Build settings
 theme: minima
