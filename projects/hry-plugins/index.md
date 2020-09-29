@@ -17,6 +17,6 @@ these plugins already have hry-core included, so you don't have to download hry-
 
 ### [Smooth Interior Camera](hry-sic)
 
-Camera mod, adds smooth rotation
+Interior camera mod, improves it by adding smooth rotation animation
 
 ### I have more in plans
