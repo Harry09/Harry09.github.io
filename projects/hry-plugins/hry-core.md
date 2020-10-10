@@ -6,7 +6,4 @@ version: 0.1.0
 download-link: https://google.com
 ---
 
-## How to install
-
-1. foo
-2. bar
+# [Github](https://github.com/Hary309/hry-core)

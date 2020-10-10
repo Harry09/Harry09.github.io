@@ -25,6 +25,8 @@ youtube video here
 1. And extract the archive to `plugins` (if directory doesn't exists, create it)
 1. Run game in x64 mode (it should be by default)
 
+### [Source code](https://github.com/Hary309/hry-sic)
+
 ## How to report a bug/crash
 
 Find these file:
