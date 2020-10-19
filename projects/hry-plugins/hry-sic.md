@@ -28,7 +28,7 @@ Keep it in mind that this is still in beta, so it may cause some bug or crashes,
 
 ## How to install via installer (recommended)
 
-1. Download `Installer .exe`
+1. Download `Installer` and extract file
 1. Run installer
 1. Choose game which you want to mod
 1. Select path to **Main directory** of game
@@ -36,7 +36,7 @@ Keep it in mind that this is still in beta, so it may cause some bug or crashes,
 
 ## How to install portable
 
-1. Download `Portable .zip`
+1. Download `Portable`
 1. Locate **ETS 2** or **ATS** directory
 1. Then go to `bin/win_x64`
 1. And extract the archive
