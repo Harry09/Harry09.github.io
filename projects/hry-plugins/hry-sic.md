@@ -3,8 +3,8 @@ layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
 version: 2.0.0 Beta
-download-installer: https://sharemods.com/tszxrghrld1p/hry-sic-2.0-installer.zip.html
-download-portable: https://sharemods.com/35foawbi8a7b/hry-sic-2.0-portable.zip.html
+download-installer: https://sharemods.com/d0b4ftbpzl3d/hry-sic-2.0-installer.zip.html
+download-portable: https://sharemods.com/jy3fv9v8uz32/hry-sic-2.0-portable.zip.html
 ---
 
 ## About
