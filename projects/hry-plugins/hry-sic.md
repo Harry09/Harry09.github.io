@@ -15,6 +15,13 @@ Keep it in mind that this is still in beta, so it may cause some bug or crashes,
 
 ### [Buy me a Coffee](https://ko-fi.com/hary309)
 
+## Features
+
+- Easy to use UI
+- Three type of animation
+- Auto-centering
+- Possibility to change predefined camera positions
+
 ## Showcase
 
 youtube video here
@@ -34,6 +41,10 @@ youtube video here
 1. Then go to `bin/win_x64`
 1. And extract the archive
 1. Run game in x64 mode (it should be by default)
+
+## How to open Main Window
+
+To open Main Window press `Delete` (you can change this bind in `Key binds` section)
 
 ### [Source code](https://github.com/Hary309/hry-sic)
 
