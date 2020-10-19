@@ -69,7 +69,7 @@ And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/
 
 ---
 
-## Old versions
+## Old versions (1.27 - 1.38)
 
 [SIC 1.3.3 x64](https://sharemods.com/4ctl3f5qmnma/sic_x64_1.3.3.zip.html)
 
