@@ -7,7 +7,15 @@ layout: default
         <div class="post-title-2">{{ page.title }}</div>
 
         <div class="post-download">
-            <a href={{page.download-link}}>Download {{ page.version }}</a>
+            <a href=#>Download {{ page.version }}</a>
+            <div class="post-download-dropdown">
+                <a href={{page.download-installer}}>
+                    <p>Download installer .exe</p>
+                </a>
+                <a href={{page.download-portable}}>
+                    <p>Download portable .zip</p>
+                </a>
+            </div>
         </div>
     </header>
 

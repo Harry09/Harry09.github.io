@@ -3,7 +3,8 @@ layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
 version: 2.0.0 Beta
-download-link: https://google.com
+download-installer: https://google.com
+download-portable: https://youtube.com
 ---
 
 ## About
@@ -18,11 +19,20 @@ Keep it in mind that this is still in beta, so it may cause some bug or crashes,
 
 youtube video here
 
-## How to install
+## How to install via installer (recommended)
 
+1. Download `Installer .exe`
+1. Run installer
+1. Choose game which you want to mod
+1. Select path to **Main directory** of game
+1. Run game in x64 mode (it should be by default)
+
+## How to install portable
+
+1. Download `Portable .zip`
 1. Locate **ETS 2** or **ATS** directory
 1. Then go to `bin/win_x64`
-1. And extract the archive to `plugins` (if directory doesn't exists, create it)
+1. And extract the archive
 1. Run game in x64 mode (it should be by default)
 
 ### [Source code](https://github.com/Hary309/hry-sic)
