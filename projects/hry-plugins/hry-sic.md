@@ -52,7 +52,7 @@ To open Main Window press `Delete` (you can change this bind in `Key binds` sect
 
 Find these file:
 
-* **game.crash.txt** inside ETS2/ATS directory
+* **game.crash.txt** and **game.log.txt** inside ETS2/ATS directory
 * **hry_core.log** inside `My Documents/hry_core/ets2 or ats`
 
 And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/Hary309/hry-sic/issues) or if you don't have a account, send it to my [email](/contact)
