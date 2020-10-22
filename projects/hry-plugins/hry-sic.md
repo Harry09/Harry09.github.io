@@ -2,9 +2,9 @@
 layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
-version: 2.0.0 Beta
-download-installer: https://sharemods.com/d0b4ftbpzl3d/hry-sic-2.0-installer.zip.html
-download-portable: https://sharemods.com/jy3fv9v8uz32/hry-sic-2.0-portable.zip.html
+version: 2.0.1 Beta
+download-installer: https://sharemods.com/swsc2kdztxqq/hry-sic-2.0.1-installer.zip.html
+download-portable: https://sharemods.com/ltigh7119l5n/hry-sic-2.0.1-portable.zip.html
 ---
 
 ## About
@@ -58,6 +58,10 @@ Find these file:
 And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/Hary309/hry-sic/issues) or if you don't have a account, send it to my [email](/contact)
 
 ## Changelog
+
+#### 2.0.1
+
+* [hry-core] Replace close button with text
 
 #### 2.0
 
