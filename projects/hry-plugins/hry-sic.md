@@ -2,7 +2,7 @@
 layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
-version: 2.0.2 Beta
+version: 2.0.3
 download-installer: http://adfoc.us/56389078289790
 download-portable: http://adfoc.us/56389078489133
 ---
