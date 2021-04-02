@@ -3,8 +3,8 @@ layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
 version: 2.0.2 Beta
-download-installer: http://adfoc.us/56389077024455
-download-portable: http://adfoc.us/56389078289781
+download-installer: http://adfoc.us/56389078289790
+download-portable: http://adfoc.us/56389078489133
 ---
 
 ## About
@@ -58,6 +58,14 @@ Find these file:
 And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/Hary309/hry-sic/issues) or if you don't have a account, send it to my [email](/contact)
 
 ## Changelog
+
+#### 2.0.3
+
+* [hry-core] Fix crashes related to corrupted config files
+
+#### 2.0.2
+
+* [hry-core] Add missing support for Caps Lock key 
 
 #### 2.0.1
 
