@@ -3,8 +3,8 @@ layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
 version: 2.0.3
-download-installer: http://adfoc.us/56389078289790
-download-portable: http://adfoc.us/56389078489133
+download-installer: http://adfoc.us/56389078610899
+download-portable: http://adfoc.us/56389078489146
 ---
 
 ## About
@@ -58,6 +58,10 @@ Find these file:
 And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/Hary309/hry-sic/issues) or if you don't have a account, send it to my [email](/contact)
 
 ## Changelog
+
+#### 2.0.4
+
+* [hry-core] Add support for D-pad
 
 #### 2.0.3
 
