@@ -7,6 +7,8 @@ download-installer: https://sharemods.com/czichlhyki0u/hry-sic-2.0.4-installer.z
 download-portable: https://sharemods.com/iiozoqrol61x/hry-sic-2.0.4-manual-installation.zip.html
 ---
 
+# I'm aware of the problem with mouse, I will try to fix the issue in free time.
+
 ## About
 
 Smooth Interior Camera is mod that improves interior camera by adding smooth rotation animation.
