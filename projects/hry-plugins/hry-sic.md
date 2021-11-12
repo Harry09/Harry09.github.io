@@ -3,11 +3,11 @@ layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
 version: 2.0.4
-download-installer: https://sharemods.com/czichlhyki0u/hry-sic-2.0.4-installer.zip.html
-download-portable: https://sharemods.com/iiozoqrol61x/hry-sic-2.0.4-manual-installation.zip.html
+download-installer: https://sharemods.com/jd7o9vtinl2z/hry-sic-2.0.5-installer.zip.html
+download-portable: https://sharemods.com/pzmjgpbe75zh/hry-sic-2.0.5-manual-installation.zip.html
 ---
 
-# I'm aware of the problem with mouse, I will try to fix the issue in free time.
+# The mouse move bug has been fix, download the newest version 2.0.5 from the link above
 
 ## About
 
@@ -60,6 +60,11 @@ Find these file:
 And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/Hary309/hry-sic/issues) or if you don't have a account, send it to my [email](/contact)
 
 ## Changelog
+
+#### 2.0.5
+
+* [hry-core] Fix bug with mouse movement
+
 
 #### 2.0.4
 
