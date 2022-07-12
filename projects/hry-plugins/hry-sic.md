@@ -2,12 +2,14 @@
 layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
-version: 2.0.5
-download-installer: https://sharemods.com/jd7o9vtinl2z/hry-sic-2.0.5-installer.zip.html
-download-portable: https://sharemods.com/pzmjgpbe75zh/hry-sic-2.0.5-manual-installation.zip.html
+version: 2.0.6
+download-installer: https://sharemods.com/svtodkp4ic77/hry-sic-2.0.6-installer.zip.html
+download-portable: https://sharemods.com/9cl6dc8iisgm/hry-sic-2.0.6-manual-installation.zip.html
 ---
 
-# The mouse move bug has been fix, download the newest version 2.0.5 from the link above
+# 2.0.6 Release
+ - Fixed crashes related to Overwolf
+ - Disallowed to use LMB as bindable key
 
 ## About
 
@@ -61,10 +63,13 @@ And send them to [https://github.com/Hary309/hry-sic/issues](https://github.com/
 
 ## Changelog
 
+#### 2.0.6
+ - [hry-core] Fix crashes related to Overwolf
+ - [hry-core] Disallow to use LMB as bindable key
+
 #### 2.0.5
 
 * [hry-core] Fix bug with mouse movement
-
 
 #### 2.0.4
 
