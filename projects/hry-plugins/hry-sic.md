@@ -2,14 +2,15 @@
 layout: download-page
 title: Smooth Interior Camera
 permalink: /projects/hry-plugins/hry-sic
-version: 2.0.6
-download-installer: https://sharemods.com/svtodkp4ic77/hry-sic-2.0.6-installer.zip.html
-download-portable: https://sharemods.com/9cl6dc8iisgm/hry-sic-2.0.6-manual-installation.zip.html
+version: 2.0.7
+download-installer: https://sharemods.com/98ae1nt0kkd9/hry-sic-2.0.7-installer.zip.html
+download-portable: https://sharemods.com/j06ee4i00lff/hry-sic-2.0.7-manual-installation.zip.html
 ---
 
-# 2.0.6 Release
- - Fixed crashes related to Overwolf
- - Disallowed to use LMB as bindable key
+# 2.0.7 Release
+ - Added support for ETS2 1.51.x, ATS 1.51.x and hopefully upcoming versions
+
+I am really sorry for late update but it turns out that being adult is time-consuming 😩
 
 ## About
 
