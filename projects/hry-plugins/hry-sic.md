@@ -10,7 +10,7 @@ download-portable: https://sharemods.com/j06ee4i00lff/hry-sic-2.0.7-manual-insta
 # 2.0.7 Release
  - Added support for ETS2 1.51.x, ATS 1.51.x and hopefully upcoming versions
 
-I am really sorry for late update but it turns out that being adult is time-consuming 😩
+# SCS Software has officially added features from my mod to the game in the 1.53 update, so I've decided to retire the project. The mod is compatible with game versions up to 1.52.
 
 ## About
 
